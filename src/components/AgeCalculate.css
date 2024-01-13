@@ -1,0 +1,53 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    
+    margin: 100px 500px;
+
+}
+.heading-1
+{
+    display: flex;
+    
+}
+.age-heading{
+
+  color: #5E5AF9;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  font-size: 1.8rem !important;
+
+}
+
+
+input[type=date]{
+
+    margin: 7px;
+    padding: 7px;
+    border-radius: 5px;
+    background: #F4F9FF;
+    border: 2px solid #DEDEDE;
+    font-family: "Robot o Mono",monospace;
+    color: #000000;
+    font-size: 18px;
+    width: 190px;
+    outline: none;
+    border-radius: 5px;
+}
+.button-div
+{
+  margin-top: 3px;  
+}
+.age-cal{
+
+    margin: 7px;
+    padding: 7px;
+}
+
